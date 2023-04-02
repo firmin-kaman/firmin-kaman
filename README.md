@@ -1,4 +1,4 @@
-Bonjour, je suis Firmin Kaman !
+## <h2>Bonjour, je suis Kaman Firmin !</h2>
 
 Je suis un développeur Fullstack junior passionné par la création de sites web et d'applications innovantes. Actuellement à la recherche d'un stage de 06 mois, j'ai créé un site web en utilisant React JS qui est mon domaine de prédilection.
 
