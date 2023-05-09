@@ -3,6 +3,6 @@ Je suis un développeur Fullstack junior passionné par la création de sites we
 
 Au cours de mes études en informatique, j'ai acquis des compétences solides en HTML, CSS, JavaScript, Java, PHP, React JS, React Native, Laravel et Angular JS, entre autres. Mon expérience m'a permis de me familiariser avec le développement web, la programmation orientée objet, les bases de données, ainsi que la conception et la réalisation de projets complexes.
 
-Je suis passionné par l'apprentissage continu et j'aime relever de nouveaux défis. En tant que développeur Fullstack junior, je suis capable de travailler aussi bien sur la partie front-end que back-end de l'application. J'ai également une grande capacité à travailler en équipe, à communiquer mes idées de manière claire et à travailler de manière autonome.
+Je suis passionné par l'apprentissage continu et j'aime relever de nouveaux défis. En tant que développeur Fullstack junior, je suis capable de travailler aussi bien sur la partie front-end que back-end d'une application, vous pouvez le constaté à travers mes projets GIT. J'ai également une grande capacité à travailler en équipe, à communiquer mes idées de manière claire et à travailler de manière autonome.
 
 Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, n'hésitez pas à me contacter. Je serais ravi de discuter de mes compétences et de mon expérience avec vous afin de voir comment je pourrais contribuer à votre projet.
