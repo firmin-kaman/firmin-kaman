@@ -6,3 +6,6 @@ Au cours de mes études en informatique, j'ai acquis des compétences solides en
 Je suis passionné par l'apprentissage continu et j'aime relever de nouveaux défis. En tant que développeur Fullstack junior, je suis capable de travailler aussi bien sur la partie front-end que back-end d'une application, vous pouvez le constaté à travers mes projets GIT. J'ai également une grande capacité à travailler en équipe, à communiquer mes idées de manière claire et à travailler de manière autonome.
 
 Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, n'hésitez pas à me contacter. Je serais ravi de discuter de mes compétences et de mon expérience avec vous afin de voir comment je pourrais contribuer à votre projet.
+
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
