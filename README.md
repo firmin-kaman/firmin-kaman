@@ -9,3 +9,8 @@ Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, 
 
 #GH-LIGHT-MODE-ONLY
 #GH-DARK-MODE-ONLY
+
+### Contact with me:
+
+[![img_contact]("./img-light.svg")](https://mikecodeur.com#gh-light-mode-only)
+[![img_contact]("./img-light.svg")](https://mikecodeur.com#gh-dark-mode-only)
