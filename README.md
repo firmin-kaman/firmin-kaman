@@ -13,3 +13,7 @@ Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, 
 ### Contact with me:
 
 [![img_contact]("./img-light.svg")](https://www.linkedin.com/in/firmin-bryant-junior-kaman-a97800191/)
+
+### My languages:
+
+[<img align="left" alt="AWS" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />]
