@@ -12,5 +12,4 @@ Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, 
 
 ### Contact with me:
 
-[![img_contact]("./img-light.svg")](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact]("./img-light.svg")](https://mikecodeur.com#gh-dark-mode-only)
+[![img_contact]("./img-light.svg")](https://www.linkedin.com/in/firmin-bryant-junior-kaman-a97800191/)
