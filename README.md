@@ -16,4 +16,4 @@ Si vous cherchez un développeur Fullstack junior pour rejoindre votre équipe, 
 
 ### My languages:
 
-[<img align="left" alt="AWS" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />]
+[<img align="left" alt="AWS" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  style="padding-right:11px;" />][youtubeplaylist]
