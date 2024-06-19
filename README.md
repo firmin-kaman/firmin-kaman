@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **E-commerce web site**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **MEARN, Android**
 
-- 📫 How to reach me **junior.kaman75@gmail.com**
+- 📫 How to reach me **bryant.kaman75@gmail.com**
 
 - ⚡ Fun fact **One day I confused my Navigo with my credit card in a cafeteria (it was my first time in France) and I repeatedly told the waiter "your device doesn't work, think about replacing it".**
 
